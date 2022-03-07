@@ -1,0 +1,27 @@
+{
+  "name": "QTLMediator",
+  "version": "0.1.0",
+  "summary": "QTLMediator.",
+  "description": "TODO: 业务中间件",
+  "homepage": "https://github.com/tea992/QTLMediator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tea992": "18055313337@163.com"
+  },
+  "source": {
+    "git": "https://github.com/tea992/QTLMediator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QTLMediator/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}

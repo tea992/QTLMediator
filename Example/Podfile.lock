@@ -1,0 +1,31 @@
+PODS:
+  - CTMediator (46)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - QTLMediator (0.1.0):
+    - CTMediator
+
+DEPENDENCIES:
+  - FBSnapshotTestCase (~> 2.1.4)
+  - QTLMediator (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  QTLMediator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  QTLMediator: ab5b75032d7a1172659c4d64bc90ffefd9a85314
+
+PODFILE CHECKSUM: 8f1be5e0fa431bbac15beafca15b5e6370adbb1f
+
+COCOAPODS: 1.11.2
